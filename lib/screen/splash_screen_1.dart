@@ -27,6 +27,16 @@ class MySplashScreen1 extends StatelessWidget {
               "welcome",
               style: TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
             ),
+            SizedBox(height: 5),
+              Text(
+                "Aplikasi dompet digital \n yang membuat anda mudah dalam transaksi",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 16.0,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.greenAccent,
+                ),
+              ),
           ],
         ),
       ),
