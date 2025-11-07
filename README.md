@@ -7,3 +7,32 @@ tahapan yang telah di lakukan
 
 1. Membuat app bar di main.dart dengan title: "KB1170_1125170031_UTS_",
 ![Screenshoot books](assets/images/title.png)
+
+2. membuat splash_screen_1.dart dengan tampilan emage bulat dengan posisi berada di pojok kiri atas layar
+
+![Screenshoot books](assets/images/image_bulat.png)
+
+3. Merubah posisi image di bagian tepat pada tengah layar
+![Screenshoot books](assets/images/image_center.png)
+
+4. Menambahkan Logo (gambar) pada BoxDecoration
+
+![Screenshoot books](assets/images/image_boxdekor.png)
+
+5. Menambkahan tulisan welcome dibawah gambar
+
+![Screenshoot books](assets/images/welcome.png)
+
+6. Menambahkan kata "Aplikasi dompet digital \n yang membuat anda mudah dalam transaksi" dengan menggunakan funsi \n
+dimana berfugsi untuk membuat baris baru
+
+![Screenshoot books](assets/images/katakata.png)
+
+7. Membuat 3 bulet kecil dibawah tulisan aplikasi dompet digital ...
+    sebagai pemanis tampilan dengan menggunakan fungsi row
+
+![Screenshoot books](assets/images/bulet_kecil.png)
+
+8. Membuat ElevatedButton pada text welcome
+
+![Screenshoot books](assets/images/ElevatedButton.png)
