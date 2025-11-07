@@ -16,6 +16,10 @@ class MySplashScreen1 extends StatelessWidget {
               decoration: const BoxDecoration(
                 color: Colors.green,
                 shape: BoxShape.circle,
+                image: DecorationImage(
+                    image: AssetImage("assets/images/test1.jpeg"),
+                    fit: BoxFit.cover,
+                  ),
               ),
             ),
           ],
