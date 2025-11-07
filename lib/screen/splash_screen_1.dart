@@ -69,6 +69,31 @@ class MySplashScreen1 extends StatelessWidget {
                   ),
                 ],
               ),
+              SizedBox(height: 20),
+              Container(
+                margin: EdgeInsets.only(left: 40, right: 40),
+                child: SizedBox(
+                  width: double.infinity,
+                  height: 40,
+                  child: ElevatedButton(
+                    onPressed: () {
+                     //todo;
+                    },
+                    //ElevatedButton digunakan untuk membuat lingkaran pada text
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.green,
+                    ),
+                    child: Text(
+                      "welcome",
+                      style: TextStyle(
+                        fontSize: 20.0,
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
           ],
         ),
       ),
