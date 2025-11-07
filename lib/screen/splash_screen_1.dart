@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kb1179_1125170031_uts/screen/splash_screen_2.dart';
 
 class MySplashScreen1 extends StatelessWidget {
   const MySplashScreen1({super.key});
@@ -77,7 +78,13 @@ class MySplashScreen1 extends StatelessWidget {
                   height: 40,
                   child: ElevatedButton(
                     onPressed: () {
-                     //todo;
+                       Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => MySplashScreen2(),
+                        ),
+                      );
+                     
                     },
                     //ElevatedButton digunakan untuk membuat lingkaran pada text
                     style: ElevatedButton.styleFrom(

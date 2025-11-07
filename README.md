@@ -40,3 +40,17 @@ dimana berfugsi untuk membuat baris baru
 9. Membuat file splash_screen2 dan 3 serta mengubah sedikit isi dari splash_screen
 
 ![Screenshoot books](assets/images/splash_screen2dan3.png)
+
+10. Membuat fungsi Navigator agar bisa pindah dari splash_screen_1 ke halaman splash_sampai splash_screen_3
+
+Berikut tampilan splash_screen1
+![Screenshoot books](assets/images/splash_screen1.png)
+ketika tombol welcome1 ditekan makan akan mengarah ke tampilan splash_screen 2
+
+![Screenshoot books](assets/images/splash_screen2.png)
+ketika tombol welcome2 ditekan makan akan mengarah ke tampilan splash_screen 3
+
+![Screenshoot books](assets/images/splash_screen3.png)
+
+begitupun seterusnya selama fungsi dari onPressed di buat
+
