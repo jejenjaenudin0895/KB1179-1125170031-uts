@@ -1,16 +1,9 @@
 # kb1179_1125170031_uts
 
-A new Flutter project.
+Ujian Flutter — UI + Deploy + Git
 
 ## Getting Started
+tahapan yang telah di lakukan
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Membuat app bar di main.dart dengan title: "KB1170_1125170031_UTS_",
+![Screenshoot books](assets/images/title.png)
