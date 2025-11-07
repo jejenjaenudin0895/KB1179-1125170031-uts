@@ -37,6 +37,38 @@ class MySplashScreen1 extends StatelessWidget {
                   color: Colors.greenAccent,
                 ),
               ),
+                SizedBox(height: 20),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Container(
+                    height: 10,
+                    width: 10,
+                    decoration: const BoxDecoration(
+                      color: Color.fromARGB(255, 7, 243, 109),
+                      shape: BoxShape.circle,
+                    ),
+                  ),
+                  SizedBox(width: 10),
+                  Container(
+                    height: 10,
+                    width: 10,
+                    decoration: const BoxDecoration(
+                      color: Color.fromARGB(255, 211, 219, 215),
+                      shape: BoxShape.circle,
+                    ),
+                  ),
+                  SizedBox(width: 10),
+                  Container(
+                    height: 10,
+                    width: 10,
+                    decoration: const BoxDecoration(
+                      color: Color.fromARGB(255, 211, 219, 215),
+                      shape: BoxShape.circle,
+                    ),
+                  ),
+                ],
+              ),
           ],
         ),
       ),
