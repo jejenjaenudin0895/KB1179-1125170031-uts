@@ -36,3 +36,7 @@ dimana berfugsi untuk membuat baris baru
 8. Membuat ElevatedButton pada text welcome
 
 ![Screenshoot books](assets/images/ElevatedButton.png)
+
+9. Membuat file splash_screen2 dan 3 serta mengubah sedikit isi dari splash_screen
+
+![Screenshoot books](assets/images/splash_screen2dan3.png)
