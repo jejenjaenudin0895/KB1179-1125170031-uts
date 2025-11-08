@@ -12,7 +12,7 @@ class Login extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-               Container(
+              Container(
                 height: 200,
                 width: 200,
                 decoration: const BoxDecoration(
@@ -112,9 +112,7 @@ class Login extends StatelessWidget {
                   width: double.infinity,
                   height: 40,
                   child: ElevatedButton(
-                    onPressed: () {
-
-                    },
+                    onPressed: () {},
 
                     //ElevatedButton digunakan untuk membuat lingkaran pada text
                     style: ElevatedButton.styleFrom(
@@ -131,7 +129,7 @@ class Login extends StatelessWidget {
                   ),
                 ),
               ),
-               SizedBox(height: 10),
+              SizedBox(height: 10),
               Container(
                 margin: EdgeInsets.only(left: 20, right: 20),
                 child: Row(
@@ -187,4 +185,4 @@ class Login extends StatelessWidget {
       ),
     );
   }
-} 
+}
