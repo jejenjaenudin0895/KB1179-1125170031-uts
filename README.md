@@ -73,3 +73,5 @@ begitupun seterusnya selama fungsi dari onPressed di buat
 16. membuat button
 
 ![Screenshoot books](assets/images/button.png)
+17. membuat garis
+![Screenshoot books](assets/images/garis.png)
