@@ -67,3 +67,7 @@ begitupun seterusnya selama fungsi dari onPressed di buat
 14. membuat decoration d Input Password
 ![Screenshoot books](assets/images/password.png)
 
+15. menambahkan text lupa password
+![Screenshoot books](assets/images/lupapassword.png)
+
+16. 
