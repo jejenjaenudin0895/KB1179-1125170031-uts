@@ -105,6 +105,32 @@ class Login extends StatelessWidget {
                   ),
                 ),
               ),
+              SizedBox(height: 10),
+              Container(
+                margin: EdgeInsets.only(left: 40, right: 40),
+                child: SizedBox(
+                  width: double.infinity,
+                  height: 40,
+                  child: ElevatedButton(
+                    onPressed: () {
+
+                    },
+
+                    //ElevatedButton digunakan untuk membuat lingkaran pada text
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.blue,
+                    ),
+                    child: Text(
+                      "login",
+                      style: TextStyle(
+                        fontSize: 20.0,
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
             ],
           ),
         ),
