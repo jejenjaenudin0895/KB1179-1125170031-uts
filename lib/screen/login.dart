@@ -24,7 +24,22 @@ class Login extends StatelessWidget {
                   ),
                 ),
               ),
-            ],),
+              SizedBox(height: 10),
+              Text(
+                "welcome",
+                style: TextStyle(
+                  fontSize: 30.0,
+                  color: Colors.black,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              SizedBox(height: 2),
+              Text(
+                "Silahkan login untuk melanjutkan",
+                style: TextStyle(fontSize: 16.0, color: Colors.green),
+              ),
+            ],
+          ),
         ),
       ),
     );

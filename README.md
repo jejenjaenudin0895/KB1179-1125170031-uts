@@ -56,3 +56,6 @@ begitupun seterusnya selama fungsi dari onPressed di buat
 
 11. membuat login.dart dengan tahapan awal pembuatan logo atau image terlebih dahulu
 ![Screenshoot books](assets/images/login.png)
+
+12. menambahkan Text “Welcome” dan “Silakan login untuk     melanjutkan
+![Screenshoot books](assets/images/login2.png)
