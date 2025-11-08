@@ -59,3 +59,9 @@ begitupun seterusnya selama fungsi dari onPressed di buat
 
 12. menambahkan Text “Welcome” dan “Silakan login untuk     melanjutkan
 ![Screenshoot books](assets/images/login2.png)
+
+13. membuat decoration untuk email
+
+![Screenshoot books](assets/images/email.png)
+
+14. 
