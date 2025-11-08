@@ -54,3 +54,5 @@ ketika tombol welcome2 ditekan makan akan mengarah ke tampilan splash_screen 3
 
 begitupun seterusnya selama fungsi dari onPressed di buat
 
+11. membuat login.dart dengan tahapan awal pembuatan logo atau image terlebih dahulu
+![Screenshoot books](assets/images/login.png)
