@@ -1,11 +1,12 @@
 # kb1179_1125170031_uts
 
-Ujian Flutter — UI + Deploy + Git
+**Ujian Tengah Semester Flutter — UI + Deploy + Git**
 
 ## Getting Started
-tahapan yang telah di lakukan
+**tahapan yang telah di lakukan**
 
 1. Membuat app bar di main.dart dengan title: "KB1170_1125170031_UTS_",
+
 ![Screenshoot books](assets/images/title.png)
 
 2. membuat splash_screen_1.dart dengan tampilan emage bulat dengan posisi berada di pojok kiri atas layar
@@ -13,6 +14,7 @@ tahapan yang telah di lakukan
 ![Screenshoot books](assets/images/image_bulat.png)
 
 3. Merubah posisi image di bagian tepat pada tengah layar
+
 ![Screenshoot books](assets/images/image_center.png)
 
 4. Menambahkan Logo (gambar) pada BoxDecoration
@@ -43,11 +45,14 @@ dimana berfugsi untuk membuat baris baru
 
 10. Membuat fungsi Navigator agar bisa pindah dari splash_screen_1 ke halaman splash_sampai splash_screen_3
 
-Berikut tampilan splash_screen1
+**Berikut tampilan splash_screen1**
+
 ![Screenshoot books](assets/images/splash_screen1.png)
+
 ketika tombol welcome1 ditekan makan akan mengarah ke tampilan splash_screen 2
 
 ![Screenshoot books](assets/images/splash_screen2.png)
+
 ketika tombol welcome2 ditekan makan akan mengarah ke tampilan splash_screen 3
 
 ![Screenshoot books](assets/images/splash_screen3.png)
@@ -55,9 +60,11 @@ ketika tombol welcome2 ditekan makan akan mengarah ke tampilan splash_screen 3
 begitupun seterusnya selama fungsi dari onPressed di buat
 
 11. membuat login.dart dengan tahapan awal pembuatan logo atau image terlebih dahulu
+
 ![Screenshoot books](assets/images/login.png)
 
 12. menambahkan Text “Welcome” dan “Silakan login untuk     melanjutkan
+
 ![Screenshoot books](assets/images/login2.png)
 
 13. membuat decoration untuk email
@@ -65,19 +72,25 @@ begitupun seterusnya selama fungsi dari onPressed di buat
 ![Screenshoot books](assets/images/email.png)
 
 14. membuat decoration d Input Password
+
 ![Screenshoot books](assets/images/password.png)
 
 15. menambahkan text lupa password
+
 ![Screenshoot books](assets/images/lupapassword.png)
 
 16. membuat button
 
 ![Screenshoot books](assets/images/button.png)
+
 17. membuat garis
+
 ![Screenshoot books](assets/images/garis.png)
+
 18. membuat sosial button
+
 ![Screenshoot books](assets/images/sosialbutton.png)
 
 19. Membuat Navigator.pushAndRemoveUntil menghapus semua halaman sebelumnya.
 
-20. done
+**done**
