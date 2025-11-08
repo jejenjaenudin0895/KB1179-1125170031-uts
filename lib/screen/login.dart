@@ -144,6 +144,43 @@ class Login extends StatelessWidget {
                   ],
                 ),
               ),
+              Column(
+                children: [
+                  OutlinedButton.icon(
+                    onPressed: () {},
+                    icon: Image.asset('assets/images/test5.jpeg', height: 24),
+                    label: Text('Login dengan Google'),
+                    style: OutlinedButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 12,
+                        horizontal: 20,
+                      ),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(30),
+                      ),
+                      side: BorderSide(color: Colors.grey[300]!),
+                      backgroundColor: Colors.white,
+                    ),
+                  ),
+                  SizedBox(height: 10),
+                  OutlinedButton.icon(
+                    onPressed: () {},
+                    icon: Icon(Icons.facebook, color: Colors.blue),
+                    label: Text('Login dengan Facebook'),
+                    style: OutlinedButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 12,
+                        horizontal: 20,
+                      ),
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(30),
+                      ),
+                      side: BorderSide(color: Colors.grey[300]!),
+                      backgroundColor: Colors.white,
+                    ),
+                  ),
+                ],
+              ),
             ],
           ),
         ),

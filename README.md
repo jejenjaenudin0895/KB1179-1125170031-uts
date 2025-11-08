@@ -75,3 +75,9 @@ begitupun seterusnya selama fungsi dari onPressed di buat
 ![Screenshoot books](assets/images/button.png)
 17. membuat garis
 ![Screenshoot books](assets/images/garis.png)
+18. membuat sosial button
+![Screenshoot books](assets/images/sosialbutton.png)
+
+19. Membuat Navigator.pushAndRemoveUntil menghapus semua halaman sebelumnya.
+
+20. done
