@@ -18,6 +18,7 @@ Pastikan sudah menginstall:
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
 - Android Studio / VS Code
 - Emulator Android ATAU aktifkan mode *Developer* dan *USB Debugging* di HP kamu
+- Atau jika komputerkamu spesifikasinya kurang baik, jalankan di google chrome saja
 
 ---
 
