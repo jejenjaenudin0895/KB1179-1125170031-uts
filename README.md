@@ -123,7 +123,7 @@ ketika tombol welcome1 ditekan makan akan mengarah ke tampilan splash_screen 2
 
 ketika tombol welcome2 ditekan makan akan mengarah ke tampilan splash_screen 3
 
-![Screenshoot books](assets/images/screen_shoot/splash_screen2/splash_screen3.png)
+![Screenshoot books](assets/images/screen_shoot/login/sosialbutton.png)
 
 begitupun seterusnya selama fungsi dari onPressed di buat
 
