@@ -29,7 +29,7 @@ Pastikan sudah menginstall:
    git clone https://github.com/jejenjaenudin0895/KB1179-1125170031-uts.git
 
 2. Sebelum buka foldernya cek terlebih dahulu di terminal dan pastikan sudah menginstal dependency:
-    ![Screenshoot books](assets/images/cek.png)
+    ![Screenshoot books](assets/images/screen_shoot/cek.png)
 3. Buka Hasil Clone dari Repo yang sudah di ambil sebelumnya dengan Visual Studio Code / Android Studio
 4. Di Terminal lakukan perintah seperti berikut ini :
     - flutter pub get
@@ -75,90 +75,90 @@ flutter run
 
 1. Membuat app bar di main.dart dengan title: "KB1170_1125170031_UTS_",
 
-![Screenshoot books](assets/images/title.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/title.png)
 
 2. membuat splash_screen_1.dart dengan tampilan emage bulat dengan posisi berada di pojok kiri atas layar
 
-![Screenshoot books](assets/images/image_bulat.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/image_bulat.png)
 
 3. Merubah posisi image di bagian tepat pada tengah layar
 
-![Screenshoot books](assets/images/image_center.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/image_center.png)
 
 4. Menambahkan Logo (gambar) pada BoxDecoration
 
-![Screenshoot books](assets/images/image_boxdekor.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/image_boxdekor.png)
 
 5. Menambkahan tulisan welcome dibawah gambar
 
-![Screenshoot books](assets/images/welcome.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/welcome.png)
 
 6. Menambahkan kata "Aplikasi dompet digital \n yang membuat anda mudah dalam transaksi" dengan menggunakan funsi \n
 dimana berfugsi untuk membuat baris baru
 
-![Screenshoot books](assets/images/katakata.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/katakata.png)
 
 7. Membuat 3 bulet kecil dibawah tulisan aplikasi dompet digital ...
     sebagai pemanis tampilan dengan menggunakan fungsi row
 
-![Screenshoot books](assets/images/bulet_kecil.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/bulet_kecil.png)
 
 8. Membuat ElevatedButton pada text welcome
 
-![Screenshoot books](assets/images/ElevatedButton.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/ElevatedButton.png)
 
 9. Membuat file splash_screen2 dan 3 serta mengubah sedikit isi dari splash_screen
 
-![Screenshoot books](assets/images/splash_screen2dan3.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen2/splash_screen2dan3.png)
 
 10. Membuat fungsi Navigator agar bisa pindah dari splash_screen_1 ke halaman splash_sampai splash_screen_3
 
 **Berikut tampilan splash_screen1**
 
-![Screenshoot books](assets/images/splash_screen1.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen1/splash_screen1.png)
 
 ketika tombol welcome1 ditekan makan akan mengarah ke tampilan splash_screen 2
 
-![Screenshoot books](assets/images/splash_screen2.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen2/splash_screen2.png)
 
 ketika tombol welcome2 ditekan makan akan mengarah ke tampilan splash_screen 3
 
-![Screenshoot books](assets/images/splash_screen3.png)
+![Screenshoot books](assets/images/screen_shoot/splash_screen2/splash_screen3.png)
 
 begitupun seterusnya selama fungsi dari onPressed di buat
 
 11. membuat login.dart dengan tahapan awal pembuatan logo atau image terlebih dahulu
 
-![Screenshoot books](assets/images/login.png)
+![Screenshoot books](assets/images/screen_shoot/login/login.png)
 
 12. menambahkan Text “Welcome” dan “Silakan login untuk     melanjutkan
 
-![Screenshoot books](assets/images/login2.png)
+![Screenshoot books](assets/images/screen_shoot/login/login2.png)
 
 13. membuat decoration untuk email
 
-![Screenshoot books](assets/images/email.png)
+![Screenshoot books](assets/images/screen_shoot/login/email.png)
 
 14. membuat decoration d Input Password
 
-![Screenshoot books](assets/images/password.png)
+![Screenshoot books](assets/images/screen_shoot/login/password.png)
 
 15. menambahkan text lupa password
 
-![Screenshoot books](assets/images/lupapassword.png)
+![Screenshoot books](assets/images/screen_shoot/login/lupapassword.png)
 
 16. membuat button
 
-![Screenshoot books](assets/images/button.png)
+![Screenshoot books](assets/images/screen_shoot/login/button.png)
 
 17. membuat garis
 
-![Screenshoot books](assets/images/garis.png)
+![Screenshoot books](assets/images/screen_shoot/login/garis.png)
 
 
 18. membuat sosial button
 
-![Screenshoot books](assets/images/sosialbutton.png)
+![Screenshoot books](assets/images/screen_shoot/login/sosialbutton.png)
 
 19. Membuat Navigator.pushAndRemoveUntil menghapus semua halaman sebelumnya.
 
